@@ -1,2 +1,5 @@
 # legendary-fortnight
-First Repo
+
+This is some information about myself...
+This is my first repo!
+Here is some more information about myself...
